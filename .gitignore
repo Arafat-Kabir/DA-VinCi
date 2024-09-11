@@ -1,0 +1,14 @@
+*.swp
+*.swo
+*.out
+*.jou
+*.log
+*.tmp.*
+lib/tags
+tb/tags
+DA-VinCi/tags
+vvengine/tags
+IMAGine/tags
+
+# following file is a symbolic link to lib/custom-fold.vim for convenience, so ignore it
+tb/custom-fold.vim
