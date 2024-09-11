@@ -1,0 +1,12 @@
+*.sdf
+*.dcp
+*.v
+*.sv
+*.rpt
+*.str
+.Xil/
+
+# Directory names ending with "-proj-dir" will be ignored.
+# When make a temporary directory to create vivado projects,
+# use this suffix to avoid committing design states.
+*-proj-dir/

@@ -1,0 +1,26 @@
+*.vcd
+*.pb
+*.out
+*.log
+*.jou
+*.wdb
+*.wcfg
+*.sdf
+*.gtkw
+*.txt
+*.data
+*.pe
+*.bin
+*.json
+*.str
+*.lpr
+*.npz
+xsim.dir
+tmp.sv
+
+# generated C-program files
+*.c
+*.h
+*.o
+*.exe
+*.out

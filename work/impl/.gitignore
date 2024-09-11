@@ -1,0 +1,15 @@
+*.pb
+*.dcp
+*.rpt
+*.sdf
+*.v
+*.str
+*.tcl
+.Xil/
+ak-runs/
+davinci-impl
+
+# Directory names ending with "-proj-dir" will be ignored.
+# When make a temporary directory to create vivado projects,
+# use this suffix to avoid committing design states.
+*-proj-dir/
